@@ -1,0 +1,11 @@
+div {
+	padding:15px 10px 30px 40px;
+	background-color: #ffddcc;
+	border: 5px solid #990088;
+}
+p{
+	text-align: center;
+	border:green dotted;
+	background: #ffffff;
+	font-family: georgia;
+}
